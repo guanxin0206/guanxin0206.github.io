@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f6f8fa;
+}
+h1 {
+  font-size: 2rem;
+  color: #34495e;
+}
+.days {
+  font-size: 3rem;
+  margin-top: 1rem;
+  color: #2c3e50;
+}
+.footer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #888;
+}
